@@ -148,17 +148,7 @@ A responsive calculator for performing common mathematical operations.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=krishna12-git&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
-    alt="Krishna's GitHub statistics"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna12-git&layout=compact&theme=radical&hide_border=true"
-    alt="Krishna's most-used languages"
-  />
+  GitHub statistics are temporarily unavailable.
 </p>
 
 > The language card shows languages found in your public, non-forked repositories. It does not measure your exact skill level.
@@ -178,13 +168,26 @@ A responsive calculator for performing common mathematical operations.
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=krishna12-git&bg_color=141321&color=ff4da6&line=ff4da6&point=ffffff&area=true&hide_border=true"
-    alt="Krishna's GitHub contribution graph"
-  />
-</p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      alt="Krishna Yadav contribution snake animation"
+      src="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 ---
 
 ## 🏆 Certifications and Learning
