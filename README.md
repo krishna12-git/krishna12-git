@@ -164,10 +164,6 @@ A responsive calculator for performing common mathematical operations.
   />
 </p>
 
----
-
-## 📈 Contribution Activity
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -176,19 +172,17 @@ A responsive calculator for performing common mathematical operations.
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake.svg"
     />
-
     <img
-      alt="Krishna Yadav contribution snake animation"
+      alt="Contribution Snake"
       src="https://raw.githubusercontent.com/krishna12-git/krishna12-git/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
----
+
 
 ## 🏆 Certifications and Learning
 
